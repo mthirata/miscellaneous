@@ -5,6 +5,8 @@
 
 Link: https://kafka.apache.org/downloads
 
+![image](https://user-images.githubusercontent.com/12371283/157346967-cf0a2637-cbb1-420d-87ee-26f7897c5d2e.png)
+
 #### COMANDOS
 Na pasta do kafka descompactado:
 
