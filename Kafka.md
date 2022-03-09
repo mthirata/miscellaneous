@@ -3,7 +3,7 @@
 
 #### Baixar o kafka
 
-Link: https://kafka.apache.org/downloads/
+Link: https://kafka.apache.org/downloads
 
 #### COMANDOS
 Na pasta do kafka descompactado:
